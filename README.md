@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Amrlwcksn
+- I come from Indonesia, I am a person
+  who likes to learn various things, therefore here I will upload various things related to the world of coding
 - ⚡ Fun fact: Im Student
 
 <!---
