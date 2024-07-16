@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amrlwcksn
-- I come from Indonesia, I am a person
-  who likes to learn various things, therefore here I will upload various things related to the world of coding
-- ⚡ Fun fact: Im Student
+- I come from Indonesia.
+- Mahasiswa Universitas PGRI Semarang (UPGRIS)
+- Pendidikan Teknologi Informasi
 
 <!---
 Amrlwcksn/Amrlwcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
