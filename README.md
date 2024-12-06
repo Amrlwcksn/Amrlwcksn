@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Amrlwcksn
+- 👋 Hi, I’m Amirul Wicaksono
 - I come from Indonesia.
-- Mahasiswa Universitas PGRI Semarang (UPGRIS)
-- Pendidikan Teknologi Informasi
+
 
 <!---
 Amrlwcksn/Amrlwcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
