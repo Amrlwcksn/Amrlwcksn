@@ -1,5 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6qWuZkxRBRjsvVMFZdgSeKSMJitENHwM6vuj9s0FL4_OAr80BPc9Wawp6-oQ40t7nFfUxLfUxA4AY9IObBfW0o3oRA9v4tBU8YkBkoviZQFVI1UT-3cEpVldRddEss1PmuJbS7rfsrRjoiiR6TrSV0KGUDHvrCJ0PEXa0qguk2l-Ju4QVTOaXT6dXIQ/w692-h231/Desain%20tanpa%20judul%20(1).png)
-
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6qWuZkxRBRjsvVMFZdgSeKSMJitENHwM6vuj9s0FL4_OAr80BPc9Wawp6-oQ40t7nFfUxLfUxA4AY9IObBfW0o3oRA9v4tBU8YkBkoviZQFVI1UT-3cEpVldRddEss1PmuJbS7rfsrRjoiiR6TrSV0KGUDHvrCJ0PEXa0qguk2l-Ju4QVTOaXT6dXIQ/w1095-h366/Desain%20tanpa%20judul%20(1).png)
 <h1 align="center">Hi 👋, I'm Amrlwcksn</h1>
 <h2 align="center">A Student majoring in computer science</h2>
 <img align="right" alt="computer" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWfi1hLP531MCgDwiWSOr-3NRiN2QcCaE-slq0v8jEAd0ecJWSTon-ls2Zbt72wHHI1TRpXM45Kwq9leuQ9xl40UzEOCeE0bbpAclL4JSygfhWOkmGJGU5JllFn0xAbbyJ8rFhtQQcs9_9nWs6xRlj23bpIdx6AMPvhUDjQLgJAPJEO24QZnsq-jygyU/s320/Desain%20tanpa%20judul.png"
