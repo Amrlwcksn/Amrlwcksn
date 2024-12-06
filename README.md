@@ -1,7 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Amirul Wicaksono</h1>
 <h3 align="center">A Student majoring in computer science</h3>
-
+<img align="right" alt="computer" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWfi1hLP531MCgDwiWSOr-3NRiN2QcCaE-slq0v8jEAd0ecJWSTon-ls2Zbt72wHHI1TRpXM45Kwq9leuQ9xl40UzEOCeE0bbpAclL4JSygfhWOkmGJGU5JllFn0xAbbyJ8rFhtQQcs9_9nWs6xRlj23bpIdx6AMPvhUDjQLgJAPJEO24QZnsq-jygyU/s320/Desain%20tanpa%20judul.png"
+  
 - 🌱 I’m currently learning **C++,Java,Python**
 - 📫 How to reach me **amrlwcksn@gmail.com**
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrlwcksn&show_icons=true&locale=en&layout=compact" alt="amrlwcksn" /></p>
 
 <!---
 Amrlwcksn/Amrlwcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
