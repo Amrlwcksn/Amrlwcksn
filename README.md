@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5B6oigEpgr0xLn-lHBvZJ5W4mSHL6GRiRpJq8tBhnvZziOdFaLITBc-1R1dIndEDzwt9-mMLqync4RspmSaO8pF4BtJfeaEavClJg7uxSFYjU5Bsr3T3Y4k0GuSEedZsMv5C13GxqqvRIfHJWPajOYaUjRQZrFgIycONkUAHrOOF-ZoP9AFQcaVkI9ws/s16000/Desain%20tanpa%20judul%20(1).png)
+[MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5B6oigEpgr0xLn-lHBvZJ5W4mSHL6GRiRpJq8tBhnvZziOdFaLITBc-1R1dIndEDzwt9-mMLqync4RspmSaO8pF4BtJfeaEavClJg7uxSFYjU5Bsr3T3Y4k0GuSEedZsMv5C13GxqqvRIfHJWPajOYaUjRQZrFgIycONkUAHrOOF-ZoP9AFQcaVkI9ws/s16000/Desain%20tanpa%20judul%20(1).png)
 <h2 align="center">A Student majoring in computer science</h2>
 <h3 align="left">👋I'm Ahmad Amirul Wicaksono</h3>
 <img align="right" alt="computer" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWfi1hLP531MCgDwiWSOr-3NRiN2QcCaE-slq0v8jEAd0ecJWSTon-ls2Zbt72wHHI1TRpXM45Kwq9leuQ9xl40UzEOCeE0bbpAclL4JSygfhWOkmGJGU5JllFn0xAbbyJ8rFhtQQcs9_9nWs6xRlj23bpIdx6AMPvhUDjQLgJAPJEO24QZnsq-jygyU/s320/Desain%20tanpa%20judul.png"
