@@ -3,7 +3,7 @@
 <h3 align="left">👋I'm Ahmad Amirul Wicaksono</h3>
 <img align="right" alt="computer" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlWfi1hLP531MCgDwiWSOr-3NRiN2QcCaE-slq0v8jEAd0ecJWSTon-ls2Zbt72wHHI1TRpXM45Kwq9leuQ9xl40UzEOCeE0bbpAclL4JSygfhWOkmGJGU5JllFn0xAbbyJ8rFhtQQcs9_9nWs6xRlj23bpIdx6AMPvhUDjQLgJAPJEO24QZnsq-jygyU/s320/Desain%20tanpa%20judul.png"
 
-- 🌱 I’m currently learning **C++,Java,Python**
+- 🌱 **React Dev**
 - 📫 How to reach me **amrlwcksn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
