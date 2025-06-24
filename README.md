@@ -38,7 +38,7 @@ Suka main di Premiere, After Effects, atau ngulik LUTs biar tone-nya cakep.
 
 ### 📬 Let’s Connect!
 
-[![Instagram](https://img.shields.io/badge/-@namamu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amirulwicaksono_)
+[![Instagram](https://img.shields.io/badge/-@amirulwicaksono_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amirulwicaksono_)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amrlwcksn@email.com)
 
 
