@@ -41,15 +41,6 @@ Suka main di Premiere, After Effects, atau ngulik LUTs biar tone-nya cakep.
 [![Instagram](https://img.shields.io/badge/-@namamu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amirulwicaksono_)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amrlwcksn@email.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wicaksono&show_icons=true&theme=radical" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wicaksono&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-
 
 <!---
 Amrlwcksn/Amrlwcksn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
