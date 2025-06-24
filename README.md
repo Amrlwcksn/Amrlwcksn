@@ -29,7 +29,7 @@
 
 ---
 
-### 📷 Fun Fact: Aku Juga Videografer!
+### 📷 Fun Fact: Aku Juga Fotografer&Videografer!
 
 🎥 Biasa pegang kamera, ngedit footage, dan bikin video pendek, wedding, atau konten promosi.  
 Suka main di Premiere, After Effects, atau ngulik LUTs biar tone-nya cakep.
@@ -38,9 +38,8 @@ Suka main di Premiere, After Effects, atau ngulik LUTs biar tone-nya cakep.
 
 ### 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namamu)
-[![Instagram](https://img.shields.io/badge/-@namamu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/namamu)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kamu@email.com)
+[![Instagram](https://img.shields.io/badge/-@namamu-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amirulwicaksono_)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amrlwcksn@email.com)
 
 ---
 
