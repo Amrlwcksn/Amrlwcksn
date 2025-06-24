@@ -22,7 +22,7 @@
 
 ### 📌 Highlight Project
 
-#### 🌍 [Jelajah Nusantara](https://jelajahindonesia.id)
+#### 🌍 [Jelajah Nusantara](https://www.jelajahnusantara.my.id/)
 > Web interaktif peta provinsi di Indonesia  
 > Dibangun dengan Next.js, Mapbox, dan Tailwind CSS  
 > 🎯 Fitur interaktif, responsif, dan edukatif
