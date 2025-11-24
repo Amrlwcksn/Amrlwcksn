@@ -20,22 +20,6 @@
 
 ---
 
-### 📌 Highlight Project
-
-#### 🌍 [Jelajah Nusantara](https://www.jelajahnusantara.my.id/)
-> Web interaktif peta provinsi di Indonesia  
-> Dibangun dengan Next.js, Mapbox, dan Tailwind CSS  
-> 🎯 Fitur interaktif, responsif, dan edukatif
-
----
-
-### 📷 Fun Fact: Aku Juga Fotografer&Videografer!
-
-🎥 Biasa pegang kamera, ngedit footage, dan bikin video pendek, wedding, atau konten promosi.  
-Suka main di Premiere, After Effects, atau ngulik LUTs biar tone-nya cakep.
-
----
-
 ### 📬 Let’s Connect!
 
 [![Instagram](https://img.shields.io/badge/-@amirulwicaksono_-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amirulwicaksono_)
