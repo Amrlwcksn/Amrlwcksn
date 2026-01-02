@@ -9,7 +9,7 @@
 
 ---
 
-### 🔧 Tools & Tech Stack
+### Tools & Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📬 Let’s Connect
+### Let’s Connect
 
 <p align="center">
   <a href="https://instagram.com/amirulwicaksono_">
