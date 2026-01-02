@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Wicaksono</h1>
 <p align="center">
   Mahasiswa Pendidikan Teknologi Informasi<br/>
-  Web Developer
+  Junior Web Developer
 </p>
 
 ---
